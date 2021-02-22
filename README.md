@@ -24,6 +24,6 @@ Now, run the script
 
     npm run visualise
 
-or if the was renamed
+or, if the file was renamed
 
     npm run visualise filename.csv
