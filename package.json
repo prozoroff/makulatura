@@ -1,0 +1,27 @@
+{
+  "name": "makulatura",
+  "version": "1.0.0",
+  "description": "A utility to visualise the CSV files data that can be exported from goodreads",
+  "main": "index.js",
+  "scripts": {
+    "visualise": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prozoroff/makulatura.git"
+  },
+  "keywords": [
+    "goodreads",
+    "csv",
+    "visualization"
+  ],
+  "author": "Alexander Prozorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prozoroff/makulatura/issues"
+  },
+  "homepage": "https://github.com/prozoroff/makulatura#readme",
+  "dependencies": {
+    "xlsx": "^0.16.9"
+  }
+}
